@@ -1,4 +1,4 @@
-# Woofs the Way!-Customisable dog food app!.
+# Woofs the Way!Customisable dog food app.
 
 This is a dogs food app where you can customise you dogs food providing a solution for pet owners who want to give their furry friends the best possible nutrition, with Woofs the Way! With an easy-to-use design, you can tailor your dog's meals to their specific dietary needs and preferences, ensuring they get all the nutrients they need . Whether your pup needs a special diet for weight management, digestive issues, dislikes or allergies, the provides personalised recipes.
 ![image](https://user-images.githubusercontent.com/114082509/235632616-aab60729-a699-427c-830f-12f66c969038.png)
@@ -18,8 +18,7 @@ Look at some other Flutter Apps online and see how they use there README File.  
 - https://github.com/Tarikul711/flutter-food-delivery-app-ui    
 - https://github.com/mohak1283/Instagram-Clone
 
-
-## Include A Section That Tells Developers How To Install The App
+ How To Your IDE
 
 To begin creating your app, choose either Visual Studio Code or Android Studio as your preferred IDE. For this particular app, I used Android Studio. You will also need to install Flutter, which you can do by following the links provided. It is important to include plugins, with Dart being the most crucial one (https://flutter.dev/docs/get-started/install) .
 
