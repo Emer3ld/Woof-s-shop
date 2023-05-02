@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1056485373425",
+    "project_id": "woofs-the-way",
+    "storage_bucket": "woofs-the-way.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056485373425:android:9f3da5de9b7ccd9df10050",
+        "android_client_info": {
+          "package_name": "com.example.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056485373425-4emkfqmfdl5hg7a2ohrlg89id3cdr8l9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-xUh_jfoI-WqkShj2LjvhTSZDuzA-gAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056485373425-4emkfqmfdl5hg7a2ohrlg89id3cdr8l9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1056485373425-sipka65hqhn54pgo4deua2p8b2l6o0fp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
