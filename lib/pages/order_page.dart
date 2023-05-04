@@ -79,7 +79,7 @@ class _OrderPageState extends State<OrderPage> {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
             children: [
-              // milk tea image
+              
               Image.asset(
                 widget.meal.imagePath,
                 height: 250,
