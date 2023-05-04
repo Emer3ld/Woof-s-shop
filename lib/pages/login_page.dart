@@ -122,7 +122,7 @@ class _LoginPageState extends State<LoginPage> {
 
               const SizedBox(height: 25),
 
-              // google + apple sign in buttons
+            
               Row(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
